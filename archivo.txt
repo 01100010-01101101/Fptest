@@ -1,0 +1,6 @@
+                Opcion 1.- Arroz / Valor $3150
+                Opcion 2.- Aceite / Valor $1990
+                Opcion 3.- Queso / Valor $2150
+                Opcion 4.- Leche / Valor $1190
+                Opcion 5.- Salir del programa
+             
